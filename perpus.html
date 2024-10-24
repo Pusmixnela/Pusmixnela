@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perpustakaan Kelas X6</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Perpustakaan Kelas X6</h1>
+    </header>
+    <main>
+        <h2>Kategori Buku</h2>
+        <select id="categorySelect" onchange="filterBooks()">
+            <option value="all">Semua</option>
+            <option value="edukasi">Edukasi</option>
+            
+        </select>
+        <div id="bookList" class="book-list">
+            <!-- Daftar buku akan ditampilkan di sini -->
+        </div>
+    </main>
+    <script src="perpus.js"></script>
+    <link rel="stylesheet" href="perpus.css">
+</body>
+</html>
