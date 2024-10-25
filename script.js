@@ -3,7 +3,7 @@ const books = [
     { title: "Biologi 1", category: "edukasi", link: "https://qrto.org/YRqDLM" },
     { title: "Why The Human Body", category: "edukasi", link: "https://books.google.co.id/books?id=9goREAAAQBAJ&lpg=PA2&hl=id&pg=PP1#v=onepage&q&f=false" },
    { title: "Teknik Kontrol Automatik", category: "edukasi", link: "https://www.google.co.id/books/edition/Teknik_Kontrol_Automatik/XNkDEAAAQBAJ?hl=id&gbpv=1&kptab=overview" },
-   { title: "Sosiologi Untuk Masyarakat Indonesia", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
+   { title: "Kelas X Prakarya dan Kewirausahaan BS Sem 2", category: "edukasi", link: "https://qrto.org/lYvlwF" },
    { title: "Inti Sari Fisika Untuk SMA", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
    { title: "Gen Z In Islam", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
     { title: "Sejarah Dunia Yang Disembunyikan", category: "edukasi", link: "https://docs.google.com/file/d/1XBDrWqs9yOnlLi9i4VugsAlUqu7a06rn/preview" },
