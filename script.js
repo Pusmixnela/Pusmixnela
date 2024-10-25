@@ -5,7 +5,7 @@ const books = [
    { title: "Teknik Kontrol Automatik", category: "edukasi", link: "https://www.google.co.id/books/edition/Teknik_Kontrol_Automatik/XNkDEAAAQBAJ?hl=id&gbpv=1&kptab=overview" },
    { title: "Kelas X Prakarya dan Kewirausahaan BS Sem 2", category: "edukasi", link: "https://qrto.org/lYvlwF" },
    { title: "Kelas X Matematika", category: "edukasi", link: "https://qrto.org/yWOotm" },
-   { title: "Gen Z In Islam", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
+   { title: "Kelas X Seni Budaya", category: "edukasi", link: "https://qrto.org/yaZS5n" },
     { title: "Sejarah Dunia Yang Disembunyikan", category: "edukasi", link: "https://docs.google.com/file/d/1XBDrWqs9yOnlLi9i4VugsAlUqu7a06rn/preview" },
 ];
 
