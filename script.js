@@ -6,6 +6,7 @@ const books = [
    { title: "Sosiologi Untuk Masyarakat Indonesia", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
    { title: "Inti Sari Fisika Untuk SMA", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
    { title: "Gen Z In Islam", category: "edukasi", link: "https://link-buku-fiksi-1.com" },
+    { title: "Sejarah Dunia Yang Disembunyikan", category: "edukasi", link: "https://docs.google.com/file/d/1XBDrWqs9yOnlLi9i4VugsAlUqu7a06rn/preview" },
 ];
 
 function displayBooks(filteredBooks) {
