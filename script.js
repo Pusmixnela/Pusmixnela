@@ -7,6 +7,8 @@ const books = [
    { title: "Kelas X Matematika", category: "edukasi", link: "https://qrto.org/yWOotm" },
    { title: "Kelas X Seni Budaya", category: "edukasi", link: "https://qrto.org/yaZS5n" },
     { title: "Sejarah Dunia Yang Disembunyikan", category: "edukasi", link: "https://docs.google.com/file/d/1XBDrWqs9yOnlLi9i4VugsAlUqu7a06rn/preview" },
+    { title: "Kelas X PPKN", category: "edukasi", link: "https://qrto.org/u1vIns" },
+    { title: "Kelas X Bahasa Inggris", category: "edukasi", link: "https://qrto.org/qYX1Te" },
 ];
 
 function displayBooks(filteredBooks) {
